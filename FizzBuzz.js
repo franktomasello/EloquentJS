@@ -1,3 +1,5 @@
+//solution
+
 let count = 100;
 
 for (let i = 1; i <= count; i++)
@@ -19,3 +21,4 @@ for (let i = 1; i <= count; i++)
         console.log(i);
     }
 }
+
